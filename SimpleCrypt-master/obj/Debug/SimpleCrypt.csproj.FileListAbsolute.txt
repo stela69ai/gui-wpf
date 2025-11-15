@@ -1,0 +1,11 @@
+C:\Users\test\Music\SimpleCrypt-master\bin\Debug\SimpleCrypt.exe.config
+C:\Users\test\Music\SimpleCrypt-master\bin\Debug\SimpleCrypt.exe
+C:\Users\test\Music\SimpleCrypt-master\bin\Debug\SimpleCrypt.pdb
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.csproj.AssemblyReference.cache
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.Properties.Resources.resources
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.Views.Menu.resources
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.csproj.GenerateResource.cache
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.csproj.CoreCompileInputs.cache
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.exe
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.pdb
+C:\Users\test\Music\SimpleCrypt-master\obj\Debug\SimpleCrypt.exe.config
